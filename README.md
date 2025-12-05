@@ -117,8 +117,8 @@ Quick Response Coordination System (QRCS) is a comprehensive disaster management
 ## Contact 📧
 
 For questions or support, please contact:
-* Email: kartik.srvt.147@gmail.com
-* LinkedIn: https://www.linkedin.com/in/kartikeya20/
+* Email: jainmudit616@gmail.com
+* LinkedIn: linkedin.com/in/muditjain
 
 ---
 
