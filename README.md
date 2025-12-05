@@ -60,7 +60,7 @@ Quick Response Coordination System (QRCS) is a comprehensive disaster management
 
 1. Clone the repository
    ```
-   git clone https://github.com/kartik-srvt147/Quick-Response-Co-Ordination-System.git
+   git clone https://github.com/coder9988/Quick-response-coordinate-system.git
    ```
 
 2. Set up XAMPP environment
